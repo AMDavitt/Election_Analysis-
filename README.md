@@ -9,5 +9,6 @@
 * Data_Source: election_results.csv
 * Software: Python 3.7, Visual Studio Code
 # Summary
+![Election Results](https://github.com/AMDavitt/Election_Analysis-/blob/main/Screenshot%202022-04-13%20220718.png))
 # Challenge Overview
 # Challenge Summary
